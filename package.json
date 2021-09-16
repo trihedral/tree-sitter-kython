@@ -1,6 +1,6 @@
 {
   "name": "tree-sitter-kython",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Kython syntax parser",
   "main": "bindings/node",
   "scripts": {
