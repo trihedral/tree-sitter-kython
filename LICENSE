@@ -1,5 +1,6 @@
 The MIT License (MIT)
 
+This software is partially base on the Python tree-sitter grammer:
 Copyright (c) 2016 Max Brunsfeld
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
